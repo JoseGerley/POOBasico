@@ -3,7 +3,9 @@ En este repositorio hay ejemplos basicos de como funciona la programació orient
 - Java
 - Python
 - Javascript. 
+
 Se pueden encontrar conceptos de porgramación orientada a objetos como:
+
 - Encapsulamiento
 - Abstracción
 - Herencia
